@@ -1,0 +1,1 @@
+We use git pull when we want to update our repo with all the changes we made or the chnages made by other developers.

@@ -1,0 +1,1 @@
+What changed from our previous way of working is that now we work with other developers and we both have to do tasks in order to move to the next step.
